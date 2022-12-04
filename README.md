@@ -1,18 +1,9 @@
-#  Machine-Learning-in-Python-Workshop
-#  Python
-#  Machine-Learning
-#  workshop 
-#  deep-learning 
-#  numpy 
-#  scikit-learn
-#  keras 
-#  dropout
-#  batch-normalization
-#  neural-networks
-#  matplotlib 
-#  convolutional-neural-networks
-#  gradient-descent
-#  backpropagation
-#  optimization-algorithms 
-#  softmax
-#  linear-classification 
+#  DL-ML-workshops
+
+#  Machine-Learning:
+Supervised Learning: 
+Regression, Python and NumPy, Logistic Regression, Regularization, Neural Networks, Support Vector Machines
+Unsupervided Learning: 
+Clustering, Dimensionality Reduction and PCA, Anomally Detection, Recommender Systems
+
+#  Deep Learning
