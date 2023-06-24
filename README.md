@@ -1,4 +1,4 @@
-#  DL-ML-workshops
+#  ML-workshops
 
 #  Machine-Learning:
 Supervised Learning: 
@@ -6,4 +6,4 @@ Regression, Python and NumPy, Logistic Regression, Regularization, Neural Networ
 Unsupervided Learning: 
 Clustering, Dimensionality Reduction and PCA, Anomally Detection, Recommender Systems
 
-#  Deep Learning
+
