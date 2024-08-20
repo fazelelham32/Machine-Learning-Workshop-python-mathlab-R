@@ -6,7 +6,7 @@ Regression, Python and NumPy, Logistic Regression, Regularization, Neural Networ
 Unsupervided Learning: 
 Clustering, Dimensionality Reduction and PCA, Anomally Detection, Recommender Systems
 
-## PROJECT1:
+## PROJECT1: with PYTHON
 **Line-by-Line Breakdown**
 
 1. **`from sklearn import datasets`:** This imports the `datasets` module from the scikit-learn library. This module provides access to various pre-loaded datasets for machine learning, including the famous Iris dataset.
